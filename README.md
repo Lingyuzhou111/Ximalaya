@@ -4,6 +4,11 @@ Ximalaya是一个功能强大的喜马拉雅音频搜索插件，支持音频搜
 
 **注意**：该插件仅限于gewechat协议下的dify-on-wechat项目。由于呈现结果为音乐卡片，需要对应版本的dify-on-wechat支持。具体请参考另外一个音乐搜索插件的README.md文档: https://github.com/Lingyuzhou111/SearchMusic
 
+## 🌰 使用示例
+![image](https://github.com/user-attachments/assets/0806de2d-3548-470c-b711-7fb4461dbfb9)
+![image](https://github.com/user-attachments/assets/0f890517-20a6-4222-9ece-4947fe26d1ac)
+![1742037574372](https://github.com/user-attachments/assets/c98c68ea-d604-43a0-975b-6f89d572cd82)
+
 ## 🌟 主要功能
 
 ### 1. 音频搜索
@@ -58,10 +63,5 @@ xm点播 [专辑ID] [序号]
 例如：
 - `xm点播 38378088`（点播第一集）
 - `xm点播 38378088 3`（点播第3集）
-
-## 🌰 使用示例
-![image](https://github.com/user-attachments/assets/0806de2d-3548-470c-b711-7fb4461dbfb9)
-![image](https://github.com/user-attachments/assets/0f890517-20a6-4222-9ece-4947fe26d1ac)
-![1742037574372](https://github.com/user-attachments/assets/c98c68ea-d604-43a0-975b-6f89d572cd82)
 
 
